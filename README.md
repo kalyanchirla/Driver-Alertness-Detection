@@ -9,9 +9,9 @@ This is a binary classification problem of determining whether a driver is alert
 
 ### Software and Libraries
 
-This project uses Python and some of its libraries for execution. You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/index.html).
+This project uses Python and some of its libraries for execution. You will also need to have software installed to run and execute a [Jupyter Notebook](https://jupyter.org/install).
 
-It is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the required packages included with it.
+It is highly recommended that you install the [Anaconda](https://www.anaconda.com/products/individual) distribution of Python, which already has the required packages included with it.
 
 ### Getting Started
 
